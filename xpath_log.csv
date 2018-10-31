@@ -1,0 +1,2 @@
+url,xpath,recommended webDriverWait,element_text,element_tag_name,element_parent,element_size,element_location
+https://stackoverflow.com/questions/28836781/reading-column-names-alone-in-a-csv-file,//a[1],8.939,,a,"<selenium.webdriver.firefox.webdriver.WebDriver (session=""ecdb9f52-ea40-49fe-b0fb-2f20a5deb95f"")>","{'height': 0.0, 'width': 0.0}","{'x': 0, 'y': 0}"
