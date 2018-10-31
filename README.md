@@ -12,8 +12,7 @@ You can play with firefox profile by uncommenting some preferences (the whole li
 
 
 + It checks the time to upload webpage, it is not very accurate but helps if you have no idea which implicit waits you want to use in the future.
-+ Future development: include the parsing of robots.txt file 
-+                     include check for honeypots
++ Future development: include the parsing of robots.txt file, include check for honeypots.
 
 python 3.7.0
 geckodriver 0.23.0
